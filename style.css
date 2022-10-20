@@ -1,5 +1,5 @@
 body{
-    background-color: #36bae3;
+    background-color:lightcoral;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -8,7 +8,7 @@ body{
 .digit{
     font-size: 150px ;
     font-weight: 200;     
-    color: #fff;
+    color: black;
 }
 .txt{ 
     font-size: 25px;

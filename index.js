@@ -83,4 +83,4 @@ if(timer==true){
   setTimeout("stopwatch()", 10);
 }
 
-}
+}                
